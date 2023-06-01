@@ -20,3 +20,25 @@ ul ;i:last-child:hover {
     background-color: transparent;
     border: 1px solid #00afaa;
 }
+
+#banner{
+    background-image: url(../images/ima.jpg);
+    height: 80%;
+    
+}
+.myButton{
+    background-color: #00afaa;
+    border-radius: 50px;
+    border: 1px solid transparent;
+    padding: 8px 15px;
+
+
+}
+.myButton a{
+    color: white;
+    text-decoration: none;
+
+}
+.myButton:hover a{
+    color: #00afaa !important;
+}
